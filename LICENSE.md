@@ -1,4 +1,4 @@
-# 
+# Enhance VMware Workstation for PC | VMware Workstation for Windows with new VMware Workstation for PC | VMware Workstation for Windows Script | import-export + VM-cloning, the #1
 
 
 
